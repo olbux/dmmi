@@ -1,0 +1,16 @@
+[
+{
+  "modid": "dmmi",
+  "name": "DMMI",
+  "description": "Discord-Minecraft Message Interface.",
+  "version": "1.0.0",
+  "mcversion": "1.7.10",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["olbux","ShadowSaixx"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
